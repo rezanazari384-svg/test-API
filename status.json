@@ -1,5 +1,5 @@
 {
-  "Status": "Off",
+  "Status": "Closed",
   "Emerg_Rec": "Off",
   "Emerg_Verbiage": "Thank you for calling Children’s Health, if you are a fellow, resident, rotator, or intern needing access to your account, please press option 1. ",
   "Admin_Switch_7": "Go Live",
@@ -8,5 +8,6 @@
   "Alt_Verbiage": "",
   "Nordic_Open": "Yes",
   "EPIC_Night": "Normal",
-  "CCB": "Off"
+  "CCB": "Off",
+  "Greeting": "Hi, What's up"
 }
